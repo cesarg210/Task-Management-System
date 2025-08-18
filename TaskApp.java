@@ -2,9 +2,6 @@ import java.lang.*;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import java.util.ArrayList;
-import java.util.Scanner;
-
 // Task class to represent a task
 class Task {
     private int id;
